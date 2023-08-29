@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boardbits
-- 👀 I’m interested in exploring tech top down in the simpliest terms possible
+- 👀 I’m interested in exploring tech top down, in the simpliest terms possible
 - 🌱 I’m currently learning how to produce online content
-- 💞️ I’m looking to collaborate on simple ways to investigate tech
+- 💞️ I’m looking to collaborate on simple ways to investigate tech through examples
 - 📫 How to reach me kelvin@boardbits.com
 
 <!---
